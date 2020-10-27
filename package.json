@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "main": "gulpfile.babel.js",
+  "author": "New Logic Studio s.r.o.",
+  "license": "CC-BY-NC-ND-4.0",
+  "devDependencies": {
+    "@babel/core": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/register": "^7.12.1",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-less": "^4.0.1",
+    "gulp-purgecss": "^3.0.0"
+  }
+}
